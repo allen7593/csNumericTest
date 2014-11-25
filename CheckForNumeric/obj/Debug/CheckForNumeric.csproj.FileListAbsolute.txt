@@ -1,0 +1,6 @@
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\bin\Debug\CheckForNumeric.exe.config
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\bin\Debug\CheckForNumeric.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\bin\Debug\CheckForNumeric.pdb
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\obj\Debug\CheckForNumeric.csprojResolveAssemblyReference.cache
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\obj\Debug\CheckForNumeric.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\CheckForNumeric\CheckForNumeric\obj\Debug\CheckForNumeric.pdb
